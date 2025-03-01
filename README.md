@@ -62,7 +62,7 @@ Break a Monoalphabetic Cipher-encrypted message using frequency analysis:
 python break.py mono ciphertext.txt
 ```
 
-**Note:** You can find test files under test folder.
+**Note:** You can use coded.txt, and other example txt files for testing.
 
 
 
