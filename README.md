@@ -1,6 +1,6 @@
 # Cryptanalysis and Cipher Implementation: Caesar, Affine, and Monoalphabetic Ciphers
 
-This project focuses on the "raw" implementation and cryptanalysis of classical encryption techniques, including the Caesar Cipher, Affine Cipher, and Monoalphabetic Cipher. It consists of two Python scripts:
+This project focuses on the "from-scratch" implementation and cryptanalysis of classical encryption techniques, including the Caesar Cipher, Affine Cipher, and Monoalphabetic Cipher. It consists of two Python scripts:
 
 ciphers.py: Implements encryption and decryption functions for the three ciphers, allowing users to encrypt/decrypt messages via command-line arguments.
 break.py: Performs cryptanalysis to break the ciphers using techniques such as brute force, frequency analysis, and dictionary-based attacks to recover plaintext from ciphertext.
